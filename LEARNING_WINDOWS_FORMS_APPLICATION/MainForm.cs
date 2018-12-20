@@ -9,7 +9,6 @@
 
 		private void MainForm_Load(object sender, System.EventArgs e)
 		{
-
 		}
 
 		private void TextBox_Enter(object sender, System.EventArgs e)
