@@ -146,9 +146,10 @@
 			// 
 			// textBox11
 			// 
+			this.textBox11.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.textBox11.Location = new System.Drawing.Point(168, 273);
 			this.textBox11.Name = "textBox11";
-			this.textBox11.Size = new System.Drawing.Size(150, 23);
+			this.textBox11.Size = new System.Drawing.Size(153, 23);
 			this.textBox11.TabIndex = 19;
 			this.textBox11.Text = "Hello, World!";
 			this.textBox11.Enter += new System.EventHandler(this.TextBox_Enter);
@@ -156,9 +157,10 @@
 			// 
 			// textBox12
 			// 
+			this.textBox12.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.textBox12.Location = new System.Drawing.Point(168, 244);
 			this.textBox12.Name = "textBox12";
-			this.textBox12.Size = new System.Drawing.Size(150, 23);
+			this.textBox12.Size = new System.Drawing.Size(153, 23);
 			this.textBox12.TabIndex = 18;
 			this.textBox12.Text = "Hello, World!";
 			this.textBox12.Enter += new System.EventHandler(this.TextBox_Enter);
@@ -166,9 +168,10 @@
 			// 
 			// textBox13
 			// 
+			this.textBox13.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.textBox13.Location = new System.Drawing.Point(168, 215);
 			this.textBox13.Name = "textBox13";
-			this.textBox13.Size = new System.Drawing.Size(150, 23);
+			this.textBox13.Size = new System.Drawing.Size(153, 23);
 			this.textBox13.TabIndex = 17;
 			this.textBox13.Text = "Hello, World!";
 			this.textBox13.Enter += new System.EventHandler(this.TextBox_Enter);
@@ -176,9 +179,10 @@
 			// 
 			// textBox14
 			// 
+			this.textBox14.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.textBox14.Location = new System.Drawing.Point(168, 186);
 			this.textBox14.Name = "textBox14";
-			this.textBox14.Size = new System.Drawing.Size(150, 23);
+			this.textBox14.Size = new System.Drawing.Size(153, 23);
 			this.textBox14.TabIndex = 16;
 			this.textBox14.Text = "Hello, World!";
 			this.textBox14.Enter += new System.EventHandler(this.TextBox_Enter);
@@ -186,9 +190,10 @@
 			// 
 			// textBox15
 			// 
+			this.textBox15.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.textBox15.Location = new System.Drawing.Point(168, 157);
 			this.textBox15.Name = "textBox15";
-			this.textBox15.Size = new System.Drawing.Size(150, 23);
+			this.textBox15.Size = new System.Drawing.Size(153, 23);
 			this.textBox15.TabIndex = 15;
 			this.textBox15.Text = "Hello, World!";
 			this.textBox15.Enter += new System.EventHandler(this.TextBox_Enter);
@@ -196,9 +201,10 @@
 			// 
 			// textBox16
 			// 
+			this.textBox16.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.textBox16.Location = new System.Drawing.Point(168, 128);
 			this.textBox16.Name = "textBox16";
-			this.textBox16.Size = new System.Drawing.Size(150, 23);
+			this.textBox16.Size = new System.Drawing.Size(153, 23);
 			this.textBox16.TabIndex = 14;
 			this.textBox16.Text = "Hello, World!";
 			this.textBox16.Enter += new System.EventHandler(this.TextBox_Enter);
@@ -206,9 +212,10 @@
 			// 
 			// textBox17
 			// 
+			this.textBox17.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.textBox17.Location = new System.Drawing.Point(168, 99);
 			this.textBox17.Name = "textBox17";
-			this.textBox17.Size = new System.Drawing.Size(150, 23);
+			this.textBox17.Size = new System.Drawing.Size(153, 23);
 			this.textBox17.TabIndex = 13;
 			this.textBox17.Text = "Hello, World!";
 			this.textBox17.Enter += new System.EventHandler(this.TextBox_Enter);
@@ -216,9 +223,10 @@
 			// 
 			// textBox18
 			// 
+			this.textBox18.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.textBox18.Location = new System.Drawing.Point(168, 70);
 			this.textBox18.Name = "textBox18";
-			this.textBox18.Size = new System.Drawing.Size(150, 23);
+			this.textBox18.Size = new System.Drawing.Size(153, 23);
 			this.textBox18.TabIndex = 12;
 			this.textBox18.Text = "Hello, World!";
 			this.textBox18.Enter += new System.EventHandler(this.TextBox_Enter);
@@ -226,9 +234,10 @@
 			// 
 			// textBox19
 			// 
+			this.textBox19.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.textBox19.Location = new System.Drawing.Point(168, 41);
 			this.textBox19.Name = "textBox19";
-			this.textBox19.Size = new System.Drawing.Size(150, 23);
+			this.textBox19.Size = new System.Drawing.Size(153, 23);
 			this.textBox19.TabIndex = 11;
 			this.textBox19.Text = "Hello, World!";
 			this.textBox19.Enter += new System.EventHandler(this.TextBox_Enter);
@@ -236,9 +245,10 @@
 			// 
 			// textBox20
 			// 
+			this.textBox20.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.textBox20.Location = new System.Drawing.Point(168, 12);
 			this.textBox20.Name = "textBox20";
-			this.textBox20.Size = new System.Drawing.Size(150, 23);
+			this.textBox20.Size = new System.Drawing.Size(153, 23);
 			this.textBox20.TabIndex = 10;
 			this.textBox20.Text = "Hello, World!";
 			this.textBox20.Enter += new System.EventHandler(this.TextBox_Enter);
