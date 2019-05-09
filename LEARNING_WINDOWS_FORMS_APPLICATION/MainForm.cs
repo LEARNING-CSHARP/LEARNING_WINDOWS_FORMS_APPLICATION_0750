@@ -13,7 +13,7 @@
 
 		private void TextBox_Enter(object sender, System.EventArgs e)
 		{
-			// کادرمحاوره‌ای جاری که وارد آن شده‌ایم
+			// کادر محاوره‌ جاری که وارد آن شده‌ایم
 			System.Windows.Forms.TextBox
 				currentTextBox = sender as System.Windows.Forms.TextBox;
 
@@ -26,7 +26,7 @@
 
 		private void TextBox_Leave(object sender, System.EventArgs e)
 		{
-			// کادر محاوره‌ای جاری که از آن خارج شده‌ایم
+			// کادر محاوره‌ جاری که از آن خارج شده‌ایم
 			System.Windows.Forms.TextBox
 				currentTextBox = sender as System.Windows.Forms.TextBox;
 
