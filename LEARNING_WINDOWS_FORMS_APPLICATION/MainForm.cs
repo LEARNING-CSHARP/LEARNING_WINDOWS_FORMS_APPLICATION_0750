@@ -20,7 +20,7 @@
 			if (currentTextBox != null)
 			{
 				currentTextBox.Font =
-					new System.Drawing.Font(currentTextBox.Font, System.Drawing.FontStyle.Bold);
+					new System.Drawing.Font(currentTextBox.Font, newStyle: System.Drawing.FontStyle.Bold);
 			}
 		}
 
@@ -33,7 +33,7 @@
 			if (currentTextBox != null)
 			{
 				currentTextBox.Font =
-					new System.Drawing.Font(currentTextBox.Font, System.Drawing.FontStyle.Regular);
+					new System.Drawing.Font(currentTextBox.Font, newStyle: System.Drawing.FontStyle.Regular);
 			}
 		}
 	}
